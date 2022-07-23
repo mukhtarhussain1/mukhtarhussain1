@@ -1,7 +1,7 @@
 ![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=mukhtarhussain1.mukhtarhussain1) [![Nominate @mukhtarhussain1 as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mukhtarhussain1?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mukhtarhussain1?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/mukhtarhussain1/fluttercapsule?style=social"> 
 
 
-<a href="https://www.youtube.com/channel/UCbiT9U2zEDWourexKzxjREg?sub_confirmation=1">
+<a href="#">
 <img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social">
 </a>
 
