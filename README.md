@@ -1,4 +1,4 @@
-![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=bukhtyarhaider.bukhtyarhaider) [![Nominate @bukhtyarhaider as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bukhtyarhaider?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/bukhtyarhaider?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/bukhtyarhaider/fluttercapsule?style=social"> 
+![3K+ Visitors](https://visitor-badge.glitch.me/badge?page_id=mukhtarhussain1.mukhtarhussain1) [![Nominate @mukhtarhussain1 as GitHub Star](https://img.shields.io/badge/Nominate-GitHub_Star-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mukhtarhussain1?style=social"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mukhtarhussain1?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/mukhtarhussain1/fluttercapsule?style=social"> 
 
 
 <a href="https://www.youtube.com/channel/UCbiT9U2zEDWourexKzxjREg?sub_confirmation=1">
@@ -58,31 +58,30 @@
 ## Tools & Technology 🛠
 <div align="center">
 <!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Js-08A0E9?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-6b12ed?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-08A0E9?style=for-the-badge&logo=firebase&logoColor=ffd400" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 <br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukhtyarhaider&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhtarhussain1&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
 
 ## GitHub Statistics 📈
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bukhtyarhaider&theme=dark&hide_title=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukhtarhussain1&theme=dark&hide_title=true&include_all_commits=true"/>
 </div><br>
 <div align="center">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=bukhtyarhaider"> <br><br> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=bukhtyarhaider&margin-w=15&margin-h=15" />
+<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhtarhussain1"> <br><br> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=mukhtarhussain1&margin-w=15&margin-h=15" />
 <!-- [![Bukhtyar Haider Achievements](https://github-profile-trophy.vercel.app/?username=bukhtyarhaider&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=bukhtyarhaider&margin-w=15&margin-h=15) -->
 </div>
 <br><br>
